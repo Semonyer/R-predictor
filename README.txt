@@ -1,7 +1,8 @@
 This python software package is used to predict A-I RNA editing site in human proteins.
 Usage of this MATLAB software package:
-(1) Prepare your sequence(s) file in fasta format and name it “test.txt”;
-(2) Run the program “predictor.py”to get the test results.
+(1) Please intercept your RNA centered on A as a fragment of length 51.
+(2) Prepare your sequence(s) file in fasta format and name it “test.txt”;
+(3) Run the program “predictor.py”to get the test results.
 
 Please note:
 (1) this software package only supports the 64-bit version of Windows operating system.
